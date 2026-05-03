@@ -1,0 +1,9 @@
+google-generativeai>=0.8.0
+python-dotenv>=1.0.0
+pytest>=8.0.0
+pytest-mock>=3.14.0
+jupyter>=1.0.0
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+Pillow>=10.2.0
